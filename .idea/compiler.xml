@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hrm-course-interface" />
+        <module name="hrm-course-server" />
+        <module name="hrm_basic_generator" />
+        <module name="hrm_basic_util" />
+        <module name="hrm_config_server" />
+        <module name="hrm_eureka_server" />
+        <module name="hrm_system_interface" />
+        <module name="hrm_system_server" />
+        <module name="hrm_zuul_gateway" />
+        <module name="itsource-hrm-spring-boot-starter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hrm-course-interface" target="1.8" />
+      <module name="hrm-course-parent" target="1.8" />
+      <module name="hrm-course-server" target="1.8" />
+      <module name="hrm_basic_generator" target="1.8" />
+      <module name="hrm_basic_parent" target="1.8" />
+      <module name="hrm_basic_util" target="1.8" />
+      <module name="hrm_config_server" target="1.8" />
+      <module name="hrm_eureka_server" target="1.8" />
+      <module name="hrm_parent" target="1.8" />
+      <module name="hrm_support_parent" target="1.8" />
+      <module name="hrm_system_interface" target="1.8" />
+      <module name="hrm_system_parent" target="1.8" />
+      <module name="hrm_system_server" target="1.8" />
+      <module name="hrm_zuul_gateway" target="1.8" />
+      <module name="itsource-hrm-spring-boot-starter" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

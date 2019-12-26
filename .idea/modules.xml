@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hrm-course-parent/hrm-course-interface/hrm-course-interface.iml" filepath="$PROJECT_DIR$/hrm-course-parent/hrm-course-interface/hrm-course-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm-course-parent/hrm-course-parent.iml" filepath="$PROJECT_DIR$/hrm-course-parent/hrm-course-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm-course-parent/hrm-course-server/hrm-course-server.iml" filepath="$PROJECT_DIR$/hrm-course-parent/hrm-course-server/hrm-course-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_basic_parent/hrm_basic_generator/hrm_basic_generator.iml" filepath="$PROJECT_DIR$/hrm_basic_parent/hrm_basic_generator/hrm_basic_generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_basic_parent/hrm_basic_parent.iml" filepath="$PROJECT_DIR$/hrm_basic_parent/hrm_basic_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_basic_parent/hrm_basic_util/hrm_basic_util.iml" filepath="$PROJECT_DIR$/hrm_basic_parent/hrm_basic_util/hrm_basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_support_parent/hrm_config_server/hrm_config_server.iml" filepath="$PROJECT_DIR$/hrm_support_parent/hrm_config_server/hrm_config_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_support_parent/hrm_eureka_server/hrm_eureka_server.iml" filepath="$PROJECT_DIR$/hrm_support_parent/hrm_eureka_server/hrm_eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_parent.iml" filepath="$PROJECT_DIR$/hrm_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_support_parent/hrm_support_parent.iml" filepath="$PROJECT_DIR$/hrm_support_parent/hrm_support_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_system_parent/hrm_system_interface/hrm_system_interface.iml" filepath="$PROJECT_DIR$/hrm_system_parent/hrm_system_interface/hrm_system_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_system_parent/hrm_system_parent.iml" filepath="$PROJECT_DIR$/hrm_system_parent/hrm_system_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_system_parent/hrm_system_server/hrm_system_server.iml" filepath="$PROJECT_DIR$/hrm_system_parent/hrm_system_server/hrm_system_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul_gateway/hrm_zuul_gateway.iml" filepath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul_gateway/hrm_zuul_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_basic_parent/itsource-hrm-spring-boot-starter/itsource-hrm-spring-boot-starter.iml" filepath="$PROJECT_DIR$/hrm_basic_parent/itsource-hrm-spring-boot-starter/itsource-hrm-spring-boot-starter.iml" />
+    </modules>
+  </component>
+</project>
