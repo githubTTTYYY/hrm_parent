@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="hrm-common-redis-interface" />
+        <module name="hrm-common-redis-service" />
         <module name="hrm-course-interface" />
         <module name="hrm-course-server" />
         <module name="hrm_basic_generator" />
@@ -19,6 +21,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="hrm-common-redis" target="1.8" />
+      <module name="hrm-common-redis-interface" target="1.8" />
+      <module name="hrm-common-redis-service" target="1.8" />
       <module name="hrm-course-interface" target="1.8" />
       <module name="hrm-course-parent" target="1.8" />
       <module name="hrm-course-server" target="1.8" />

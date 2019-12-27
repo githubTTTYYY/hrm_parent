@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/hrm-common-redis/hrm-common-redis.iml" filepath="$PROJECT_DIR$/hrm-common-redis/hrm-common-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm-common-redis/hrm-common-redis-interface/hrm-common-redis-interface.iml" filepath="$PROJECT_DIR$/hrm-common-redis/hrm-common-redis-interface/hrm-common-redis-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm-common-redis/hrm-common-redis-service/hrm-common-redis-service.iml" filepath="$PROJECT_DIR$/hrm-common-redis/hrm-common-redis-service/hrm-common-redis-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/hrm-course-parent/hrm-course-interface/hrm-course-interface.iml" filepath="$PROJECT_DIR$/hrm-course-parent/hrm-course-interface/hrm-course-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/hrm-course-parent/hrm-course-parent.iml" filepath="$PROJECT_DIR$/hrm-course-parent/hrm-course-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/hrm-course-parent/hrm-course-server/hrm-course-server.iml" filepath="$PROJECT_DIR$/hrm-course-parent/hrm-course-server/hrm-course-server.iml" />

@@ -1,0 +1,16 @@
+server:
+  port: 1299
+spring:
+  application:
+    name: CONFIG-SERVER
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/githubTTTYYY/hrm_config.git #仓库的地址
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    prefer-ip-address: true #以ip注册
